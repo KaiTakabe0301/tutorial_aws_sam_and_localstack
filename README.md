@@ -18,13 +18,11 @@ pythonの環境を再現
 $ pipenv install
 ```
 
-<br>
 サンプルプロジェクトをビルド
 ```bash
 $ sam build
 ```
 
-<br>
 LocalStackにデプロイ
 ```
 $ pipenv shell
