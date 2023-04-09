@@ -23,6 +23,4 @@ export const lambdaHandler = async (event, context) => {
         console.log(err);
         return err;
     }
-
-    return response
 };
