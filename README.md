@@ -23,6 +23,11 @@ $ pipenv install
 $ sam build
 ```
 
+LocalStackを起動
+```bash
+$ docker compose up -d
+```
+
 LocalStackにデプロイ
 ```
 $ pipenv shell
